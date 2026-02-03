@@ -15,7 +15,7 @@
 <div align="center">
 
 [//]: <img height="200em" src="https://github-readme-stats.vercel.app/api?username=iamxorum&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D" alt="iamxorum" />
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamxorum&theme=radical&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FF6B9D" alt="iamxorum" />
+[//]: <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamxorum&theme=radical&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FF6B9D" alt="iamxorum" />
 
 </div>
 
