@@ -8,7 +8,15 @@
 
 </div>
 
----
+## 📈 Badges
+
+<div align="center">
+
+<a href="https://www.abuseipdb.com/user/280127" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
+  <img src="https://www.abuseipdb.com/contributor/280127.svg" alt="AbuseIPDB Contributor Badge" style="width: 319px;background: #4c35c2ff linear-gradient(rgba(255,255,255,0), rgba(255,255,255,.3) 50%, rgba(255, 255, 255, 0.2) 51%, rgba(55, 49, 123, 1)); padding: 5px;">
+</a>
+
+</div>
 
 ## 📊 GitHub Stats
 
@@ -24,8 +32,6 @@
 <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=iamxorum&theme=radical" alt="iamxorum" />
 
 </div>
-
----
 
 ## 💻 Tech Stack & Tools
 
@@ -76,8 +82,6 @@
 
 </div>
 
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -85,8 +89,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamxorum&theme=radical&bg_color=0D1117&color=FF6B9D&line=FF6B9D&point=FFFFFF&area=true&hide_border=true" alt="iamxorum" />
 
 </div>
-
----
 
 ## 📫 Get in Contact
 
